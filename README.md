@@ -1,7 +1,5 @@
 # Video Asset Manager
 
-**English** | [简体中文](README.zh-CN.md)
-
 A local video-project workspace with a browser-based editor — plus a companion
 skill that gives every AI video-generation run a project to live in.
 
